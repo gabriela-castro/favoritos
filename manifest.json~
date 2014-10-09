@@ -1,0 +1,10 @@
+{
+ "homepage_url" : "http://gabriela.x-br.com",
+"manifest_version": 2,
+  "name": "Sites Favoritos",
+  "version": "0.0",
+"description": "Take yours favorite websites with you everywhere.",
+"author": "Gabriela Castro",
+"icons": {"16":"icon.png"}
+ 
+}
